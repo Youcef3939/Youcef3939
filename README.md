@@ -8,7 +8,7 @@ I’m a Computer Engineering student passionate about building impactful AI proj
 
 * 🌍  I'm based in tunisia
 * ✉️  You can contact me at [youcefchalbi39@gmail.com](mailto:youcefchalbi39@gmail.com)
-* 🧠  I'm currently learning Python, C++, AI & machine learning, finance and quant skills, robotics, and advanced AI concepts like consciousness
+* 🧠  I'm currently learning Python, C, C++, AI & machine learning, finance and quant skills, robotics
 * 👥  I'm looking to collaborate on AI projects, robotics, open-source tools, healthcare tech, aviation systems, and innovative prototypes
 * 💬  Trying to be the next tony stark
 
