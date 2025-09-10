@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 computer engineering student
 ----------------------------
 
-I’m a Computer Engineering student passionate about building impactful AI projects and open-source tools. learning and collaborating!!
+I’m a Computer Engineering student passionate about building impactful AI projects and open-source tools. learning and collaborating!
 
 * 🌍  I'm based currently in Tunisia
 * ✉️  You can contact me at [youcefchalbi39@gmail.com](mailto:youcefchalbi39@gmail.com)
