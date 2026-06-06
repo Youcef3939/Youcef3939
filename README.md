@@ -4,8 +4,6 @@ Hi, My name is youcef chalbi ![](https://user-images.githubusercontent.com/18350
 computer engineering student
 ----------------------------
 
-<img width="1699" height="422" alt="Capture d&#39;écran 2026-04-30 203505" src="https://github.com/user-attachments/assets/c5ff3ecf-e870-4fbf-a924-c9a0e620b300" />
-
 ---
 
 I’m a Computer Engineering student passionate about building impactful AI projects and open-source tools. learning and collaborating!
