@@ -5,11 +5,11 @@ computer engineering student
 ----------------------------
 
 
-I’m a Computer Engineering student passionate about building impactful AI projects and open-source tools. learning and collaborating!
+I’m a computer engineering student passionate about building impactful AI projects and open-source tools. learning and collaborating!
 
-* 🌍  I'm based currently in Tunisia
-* ✉️  You can contact me at [youcefchalbi39@gmail.com](mailto:youcefchalbi39@gmail.com)
-* 👥  I'm looking to collaborate on AI projects, robotics, open-source tools, healthcare tech, and innovative prototypes
+* I'm based currently in tunisia
+* you can contact me at [youcefchalbi39@gmail.com](mailto:youcefchalbi39@gmail.com)
+* I'm looking to collaborate on AI projects, robotics, open-source tools and innovative prototypes
 
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36"/>](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36"/>](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
@@ -36,6 +36,6 @@ I’m a Computer Engineering student passionate about building impactful AI proj
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36"/>](https://www.docker.com/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36"/>](https://aws.amazon.com)
 
-### Socials
+### socials
 
 <p align="left"> <a href="https://www.github.com/Youcef3939" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/youcefchalbi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/wlhena" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p> 
